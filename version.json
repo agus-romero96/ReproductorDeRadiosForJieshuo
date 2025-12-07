@@ -1,5 +1,5 @@
 {
-  "version": 2.0,
-  "changelog": "¡Gran actualización v2.0!\n- Nuevo motor de audio: No se corta con pantalla apagada.\n- Base de datos segura: Tus radios ya no se pierden.\n- Traducción completa (Español/Inglés).\n- Corrección de errores con YouTube y llamadas.",
+  "version": 2.1,
+  "changelog": "Actualización v2.1:\n- ¡NUEVO! Función de Grabación: Guarda tus canciones favoritas.\n- ¡NUEVO! Botón Info: Mira qué canción está sonando (Metadatos).\n- Corrección de errores (Vibración y módulos).\n- Mejoras de estabilidad en el reproductor.",
   "url": "https://github.com/agus-romero96/ReproductorDeRadiosForJieshuo/raw/main/Reproductor_de_Radios.zip"
 }
